@@ -1,0 +1,7 @@
+echo "# Product-reveiw" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rathinasamy170-ops/Product-reveiw.git
+git push -u origin main
